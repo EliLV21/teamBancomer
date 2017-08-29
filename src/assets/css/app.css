@@ -14,3 +14,13 @@
 	margin-left: 11px;
 	margin-right: 11px;
 }
+.titulo{
+	font-size: 15px;
+	color: gray;
+}
+.datosUsuario{
+	font-size: 21px;
+}
+#grafica{
+	width: 138px;
+}
