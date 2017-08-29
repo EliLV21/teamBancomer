@@ -1,0 +1,16 @@
+.container-fluid{
+	width: 977px;
+	margin-left: 31px;
+	margin-right: 31px;
+}
+.logoBancomer{
+	width: 267px;
+}
+#fotoUsuario{
+	width: 89px;
+	margin-left: 14px;
+}
+.card{
+	margin-left: 11px;
+	margin-right: 11px;
+}
